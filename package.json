@@ -1,0 +1,21 @@
+{
+  "name": "@elevenback/prettier-config",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "ElevenBack",
+  "contributors": [
+    "HANATANI Takuma <mail@potato4d.me>"
+  ],
+  "scripts": {
+    "format": "prettier './**/*.{md,js}' --write"
+  },
+  "repository": "https://github.com/elevenback/elevenback-prettier-config",
+  "homepage": "https://github.com/elevenback/elevenback-prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/elevenback/elevenback-prettier-config/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
